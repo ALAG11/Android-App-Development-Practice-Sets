@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question - 1</string>
+    <string name="todo">TODO</string>
+    <string name="address_stark_towers">Address : Stark Towers</string>
+    <string name="name_tony_stark_iron_man">Name : Tony Stark (Iron Man)</string>
+    <string name="address_stark_towers1">Address : Stark Towers</string>
+</resources>
